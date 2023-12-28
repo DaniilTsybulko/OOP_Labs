@@ -1,0 +1,90 @@
+
+Murder --------
+ErrantKnight TestKnight1 {30, 40} 
+Slaver TestSlaver1 {10, 20} 
+ErrantKnight TestKnight1 kills Slaver TestSlaver1
+
+Murder --------
+ErrantKnight TestKnight1 {30, 40} 
+Slaver TestSlaver2 {15, 25} 
+ErrantKnight TestKnight1 kills Slaver TestSlaver2
+
+Murder --------
+ErrantKnight TestKnight1 {30, 40} 
+Slaver TestSlaver3 {20, 30} 
+ErrantKnight TestKnight1 kills Slaver TestSlaver3
+
+Murder --------
+ErrantKnight TestKnight2 {35, 45} 
+Slaver TestSlaver1 {10, 20} 
+ErrantKnight TestKnight2 kills Slaver TestSlaver1
+
+Murder --------
+ErrantKnight TestKnight2 {35, 45} 
+Slaver TestSlaver2 {15, 25} 
+ErrantKnight TestKnight2 kills Slaver TestSlaver2
+
+Murder --------
+ErrantKnight TestKnight2 {35, 45} 
+Slaver TestSlaver3 {20, 30} 
+ErrantKnight TestKnight2 kills Slaver TestSlaver3
+
+Murder --------
+Slaver TestSlaver2 {15, 25} 
+Squirrel TestSquirrel1 {50, 60} 
+Slaver TestSlaver2 kills Squirrel TestSquirrel1
+
+Murder --------
+Squirrel TestSquirrel1 {50, 60} 
+Squirrel TestSquirrel2 {55, 65} 
+Squirrel TestSquirrel1 kills Squirrel TestSquirrel2
+
+Murder --------
+Squirrel TestSquirrel1 {50, 60} 
+Squirrel TestSquirrel3 {60, 70} 
+Squirrel TestSquirrel1 kills Squirrel TestSquirrel3
+
+Murder --------
+Squirrel TestSquirrel2 {55, 65} 
+Squirrel TestSquirrel1 {50, 60} 
+Squirrel TestSquirrel2 kills Squirrel TestSquirrel1
+
+Murder --------
+Squirrel TestSquirrel2 {55, 65} 
+Squirrel TestSquirrel3 {60, 70} 
+Squirrel TestSquirrel2 kills Squirrel TestSquirrel3
+
+Murder --------
+Slaver TestSlaver3 {20, 30} 
+Squirrel TestSquirrel1 {50, 60} 
+Slaver TestSlaver3 kills Squirrel TestSquirrel1
+
+Murder --------
+Slaver TestSlaver3 {20, 30} 
+Squirrel TestSquirrel2 {55, 65} 
+Slaver TestSlaver3 kills Squirrel TestSquirrel2
+
+Murder --------
+ErrantKnight TestKnight3 {40, 50} 
+Slaver TestSlaver1 {10, 20} 
+ErrantKnight TestKnight3 kills Slaver TestSlaver1
+
+Murder --------
+ErrantKnight TestKnight3 {40, 50} 
+Slaver TestSlaver2 {15, 25} 
+ErrantKnight TestKnight3 kills Slaver TestSlaver2
+
+Murder --------
+ErrantKnight TestKnight3 {40, 50} 
+Slaver TestSlaver3 {20, 30} 
+ErrantKnight TestKnight3 kills Slaver TestSlaver3
+
+Murder --------
+Squirrel TestSquirrel3 {60, 70} 
+Squirrel TestSquirrel1 {50, 60} 
+Squirrel TestSquirrel3 kills Squirrel TestSquirrel1
+
+Murder --------
+Squirrel TestSquirrel3 {60, 70} 
+Squirrel TestSquirrel2 {55, 65} 
+Squirrel TestSquirrel3 kills Squirrel TestSquirrel2

@@ -1,0 +1,10 @@
+2
+1
+TestSlaver {10, 20} 
+2
+TestKnight {30, 40} 
+
+Murder --------
+ErrantKnight TestKnight {30, 40} 
+Slaver TestSlaver {10, 20} 
+ErrantKnight TestKnight kills Slaver TestSlaver
