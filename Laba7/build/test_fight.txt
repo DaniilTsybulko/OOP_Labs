@@ -1,0 +1,30 @@
+
+Murder --------
+2 ErrantKnight {1, 1} 
+1 Slaver {0, 0} 
+2 ErrantKnight kills 1 Slaver
+
+Murder --------
+1 Slaver {0, 0} 
+3 Squirrel {1, 1} 
+1 Slaver kills 3 Squirrel
+
+Murder --------
+1 Slaver1 {0, 0} 
+3 Squirrel1 {4, 4} 
+1 Slaver1 kills 3 Squirrel1
+
+Murder --------
+1 Slaver1 {0, 0} 
+3 Squirrel2 {5, 5} 
+1 Slaver1 kills 3 Squirrel2
+
+Murder --------
+2 ErrantKnight1 {2, 2} 
+1 Slaver1 {0, 0} 
+2 ErrantKnight1 kills 1 Slaver1
+
+Murder --------
+2 ErrantKnight1 {2, 2} 
+1 Slaver2 {1, 1} 
+2 ErrantKnight1 kills 1 Slaver2

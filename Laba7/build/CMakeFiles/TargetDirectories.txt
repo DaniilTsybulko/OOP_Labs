@@ -1,0 +1,5 @@
+/home/dts/OOPLabs/OOP_Labs/Lab_7/build/CMakeFiles/lab7_lib.dir
+/home/dts/OOPLabs/OOP_Labs/Lab_7/build/CMakeFiles/lab7_main.dir
+/home/dts/OOPLabs/OOP_Labs/Lab_7/build/CMakeFiles/lab7_test.dir
+/home/dts/OOPLabs/OOP_Labs/Lab_7/build/CMakeFiles/edit_cache.dir
+/home/dts/OOPLabs/OOP_Labs/Lab_7/build/CMakeFiles/rebuild_cache.dir
